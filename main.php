@@ -3,10 +3,11 @@
 Plugin Name: Shibboleth - Convert Users
 Plugin URI: https://github.com/clas-web/shibboleth-convert-users
 Description: The Shibboleth - Convert Users plugin is a one time plugin to convert all LDAP users to Shibboleth.
-Version: 0.0.1
+Version: 0.1.1
 Author: Crystal Barton
 Author URI: https://www.linkedin.com/in/crystalbarton
 Network: True
+GitHub Plugin URI: https://github.com/clas-web/ldap-to-shibboleth-converter
 */
 
 
